@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testclasses><ardctrainingfacades><testclass>com.ardctraining.facades.suggestion.DefaultSimpleSuggestionFacadeIntegrationTest</testclass><testclass>com.ardctraining.facades.suggestion.impl.DefaultSimpleSuggestionFacadeTest</testclass></ardctrainingfacades></testclasses>

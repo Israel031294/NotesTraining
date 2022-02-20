@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://www.zeroturnaround.com">
+  <classpath>
+    <dir name="/opt/hybris/hybris/bin/custom/ardctraining/ardctrainingbackoffice/backoffice/classes" />
+  </classpath>
+</application>
